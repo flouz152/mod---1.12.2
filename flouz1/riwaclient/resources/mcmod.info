@@ -1,0 +1,16 @@
+[
+{
+  "modid": "riwa",
+  "name": "Riwa",
+  "description": "Renderer utilities and assets for Riwa.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Riwa"],
+  "credits": "The Forge and FML teams",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
